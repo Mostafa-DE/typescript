@@ -1,0 +1,381 @@
+Date,Home Team,Away Team,Home Goals,Away Goals,Referee
+Aug 10 2018 - 7:00pm,Manchester United,Leicester City,2,1,Andre Marriner
+Aug 11 2018 - 11:30am,Newcastle United,Tottenham Hotspur,1,2,Martin Atkinson
+Aug 11 2018 - 2:00pm,AFC Bournemouth,Cardiff City,2,0,Kevin Friend
+Aug 11 2018 - 2:00pm,Fulham,Crystal Palace,0,2,Mike Dean
+Aug 11 2018 - 2:00pm,Huddersfield Town,Chelsea,0,3,Chris Kavanagh
+Aug 11 2018 - 2:00pm,Watford,Brighton & Hove Albion,2,0,Jonathan Moss
+Aug 11 2018 - 4:30pm,Wolverhampton Wanderers,Everton,2,2,Craig Pawson
+Aug 12 2018 - 12:30pm,Liverpool,West Ham United,4,0,Anthony Taylor
+Aug 12 2018 - 12:30pm,Southampton,Burnley,0,0,Graham Scott
+Aug 12 2018 - 3:00pm,Arsenal,Manchester City,0,2,Michael Oliver
+Aug 18 2018 - 11:30am,Cardiff City,Newcastle United,0,0,Craig Pawson
+Aug 18 2018 - 2:00pm,Everton,Southampton,2,1,Lee Mason
+Aug 18 2018 - 2:00pm,Leicester City,Wolverhampton Wanderers,2,0,Mike Dean
+Aug 18 2018 - 2:00pm,Tottenham Hotspur,Fulham,3,1,Anthony Taylor
+Aug 18 2018 - 2:00pm,West Ham United,AFC Bournemouth,1,2,Stuart Attwell
+Aug 18 2018 - 4:30pm,Chelsea,Arsenal,3,2,Martin Atkinson
+Aug 19 2018 - 12:30pm,Burnley,Watford,1,3,Paul Tierney
+Aug 19 2018 - 12:30pm,Manchester City,Huddersfield Town,6,1,Andre Marriner
+Aug 19 2018 - 3:00pm,Brighton & Hove Albion,Manchester United,3,2,Kevin Friend
+Aug 20 2018 - 7:00pm,Crystal Palace,Liverpool,0,2,Michael Oliver
+Aug 25 2018 - 11:30am,Wolverhampton Wanderers,Manchester City,1,1,Martin Atkinson
+Aug 25 2018 - 2:00pm,AFC Bournemouth,Everton,2,2,Lee Probert
+Aug 25 2018 - 2:00pm,Arsenal,West Ham United,3,1,Graham Scott
+Aug 25 2018 - 2:00pm,Huddersfield Town,Cardiff City,0,0,Michael Oliver
+Aug 25 2018 - 2:00pm,Southampton,Leicester City,1,2,Jonathan Moss
+Aug 25 2018 - 4:30pm,Liverpool,Brighton & Hove Albion,1,0,Chris Kavanagh
+Aug 26 2018 - 12:30pm,Watford,Crystal Palace,2,1,Anthony Taylor
+Aug 26 2018 - 3:00pm,Fulham,Burnley,4,2,David Coote
+Aug 26 2018 - 3:00pm,Newcastle United,Chelsea,1,2,Paul Tierney
+Aug 27 2018 - 7:00pm,Manchester United,Tottenham Hotspur,0,3,Craig Pawson
+Sep 01 2018 - 11:30am,Leicester City,Liverpool,1,2,Paul Tierney
+Sep 01 2018 - 2:00pm,Brighton & Hove Albion,Fulham,2,2,Lee Probert
+Sep 01 2018 - 2:00pm,Chelsea,AFC Bournemouth,2,0,Lee Mason
+Sep 01 2018 - 2:00pm,Crystal Palace,Southampton,0,2,Martin Atkinson
+Sep 01 2018 - 2:00pm,Everton,Huddersfield Town,1,1,Stuart Attwell
+Sep 01 2018 - 2:00pm,West Ham United,Wolverhampton Wanderers,0,1,Chris Kavanagh
+Sep 01 2018 - 4:30pm,Manchester City,Newcastle United,2,1,Kevin Friend
+Sep 02 2018 - 12:30pm,Cardiff City,Arsenal,2,3,Anthony Taylor
+Sep 02 2018 - 3:00pm,Burnley,Manchester United,0,2,Jonathan Moss
+Sep 02 2018 - 3:00pm,Watford,Tottenham Hotspur,2,1,Andre Marriner
+Sep 15 2018 - 11:30am,Tottenham Hotspur,Liverpool,1,2,Michael Oliver
+Sep 15 2018 - 2:00pm,AFC Bournemouth,Leicester City,4,2,Craig Pawson
+Sep 15 2018 - 2:00pm,Chelsea,Cardiff City,4,1,Jonathan Moss
+Sep 15 2018 - 2:00pm,Huddersfield Town,Crystal Palace,0,1,Lee Mason
+Sep 15 2018 - 2:00pm,Manchester City,Fulham,3,0,Stuart Attwell
+Sep 15 2018 - 2:00pm,Newcastle United,Arsenal,1,2,Lee Probert
+Sep 15 2018 - 4:30pm,Watford,Manchester United,1,2,Mike Dean
+Sep 16 2018 - 12:30pm,Wolverhampton Wanderers,Burnley,1,0,Andre Marriner
+Sep 16 2018 - 3:00pm,Everton,West Ham United,1,3,Martin Atkinson
+Sep 17 2018 - 7:00pm,Southampton,Brighton & Hove Albion,2,2,Anthony Taylor
+Sep 22 2018 - 11:30am,Fulham,Watford,1,1,Martin Atkinson
+Sep 22 2018 - 2:00pm,Burnley,AFC Bournemouth,4,0,Anthony Taylor
+Sep 22 2018 - 2:00pm,Cardiff City,Manchester City,0,5,Michael Oliver
+Sep 22 2018 - 2:00pm,Crystal Palace,Newcastle United,0,0,Andre Marriner
+Sep 22 2018 - 2:00pm,Leicester City,Huddersfield Town,3,1,David Coote
+Sep 22 2018 - 2:00pm,Liverpool,Southampton,3,0,Paul Tierney
+Sep 22 2018 - 2:00pm,Manchester United,Wolverhampton Wanderers,1,1,Kevin Friend
+Sep 22 2018 - 4:30pm,Brighton & Hove Albion,Tottenham Hotspur,1,2,Chris Kavanagh
+Sep 23 2018 - 12:30pm,West Ham United,Chelsea,0,0,Mike Dean
+Sep 23 2018 - 3:00pm,Arsenal,Everton,2,0,Jonathan Moss
+Sep 29 2018 - 11:30am,West Ham United,Manchester United,3,1,Michael Oliver
+Sep 29 2018 - 2:00pm,Arsenal,Watford,2,0,Anthony Taylor
+Sep 29 2018 - 2:00pm,Everton,Fulham,3,0,Roger East
+Sep 29 2018 - 2:00pm,Huddersfield Town,Tottenham Hotspur,0,2,Craig Pawson
+Sep 29 2018 - 2:00pm,Manchester City,Brighton & Hove Albion,2,0,Lee Mason
+Sep 29 2018 - 2:00pm,Newcastle United,Leicester City,0,2,Simon Hooper
+Sep 29 2018 - 2:00pm,Wolverhampton Wanderers,Southampton,2,0,Stuart Attwell
+Sep 29 2018 - 4:30pm,Chelsea,Liverpool,1,1,Andre Marriner
+Sep 30 2018 - 3:00pm,Cardiff City,Burnley,1,2,Martin Atkinson
+Oct 01 2018 - 7:00pm,AFC Bournemouth,Crystal Palace,2,1,Mike Dean
+Oct 05 2018 - 7:00pm,Brighton & Hove Albion,West Ham United,1,0,Kevin Friend
+Oct 06 2018 - 2:00pm,Burnley,Huddersfield Town,1,1,Chris Kavanagh
+Oct 06 2018 - 2:00pm,Crystal Palace,Wolverhampton Wanderers,0,1,Michael Oliver
+Oct 06 2018 - 2:00pm,Leicester City,Everton,1,2,Andre Marriner
+Oct 06 2018 - 2:00pm,Tottenham Hotspur,Cardiff City,1,0,Mike Dean
+Oct 06 2018 - 2:00pm,Watford,AFC Bournemouth,0,4,Jonathan Moss
+Oct 06 2018 - 4:30pm,Manchester United,Newcastle United,3,2,Anthony Taylor
+Oct 07 2018 - 11:00am,Fulham,Arsenal,1,5,Paul Tierney
+Oct 07 2018 - 1:15pm,Southampton,Chelsea,0,3,Craig Pawson
+Oct 07 2018 - 3:30pm,Liverpool,Manchester City,0,0,Martin Atkinson
+Oct 20 2018 - 11:30am,Chelsea,Manchester United,2,2,Mike Dean
+Oct 20 2018 - 2:00pm,AFC Bournemouth,Southampton,0,0,Lee Probert
+Oct 20 2018 - 2:00pm,Cardiff City,Fulham,4,2,Kevin Friend
+Oct 20 2018 - 2:00pm,Manchester City,Burnley,5,0,Jonathan Moss
+Oct 20 2018 - 2:00pm,Newcastle United,Brighton & Hove Albion,0,1,Andre Marriner
+Oct 20 2018 - 2:00pm,West Ham United,Tottenham Hotspur,0,1,Martin Atkinson
+Oct 20 2018 - 2:00pm,Wolverhampton Wanderers,Watford,0,2,Lee Mason
+Oct 20 2018 - 4:30pm,Huddersfield Town,Liverpool,0,1,Michael Oliver
+Oct 21 2018 - 3:00pm,Everton,Crystal Palace,2,0,Anthony Taylor
+Oct 22 2018 - 7:00pm,Arsenal,Leicester City,3,1,Chris Kavanagh
+Oct 27 2018 - 2:00pm,Brighton & Hove Albion,Wolverhampton Wanderers,1,0,Anthony Taylor
+Oct 27 2018 - 2:00pm,Fulham,AFC Bournemouth,0,3,Andre Marriner
+Oct 27 2018 - 2:00pm,Liverpool,Cardiff City,4,1,Stuart Attwell
+Oct 27 2018 - 2:00pm,Southampton,Newcastle United,0,0,Chris Kavanagh
+Oct 27 2018 - 2:00pm,Watford,Huddersfield Town,3,0,Mike Dean
+Oct 27 2018 - 4:30pm,Leicester City,West Ham United,1,1,Michael Oliver
+Oct 28 2018 - 1:30pm,Burnley,Chelsea,0,4,Craig Pawson
+Oct 28 2018 - 1:30pm,Crystal Palace,Arsenal,2,2,Martin Atkinson
+Oct 28 2018 - 4:00pm,Manchester United,Everton,2,1,Jonathan Moss
+Oct 29 2018 - 8:00pm,Tottenham Hotspur,Manchester City,0,1,Kevin Friend
+Nov 03 2018 - 12:30pm,AFC Bournemouth,Manchester United,1,2,Paul Tierney
+Nov 03 2018 - 3:00pm,Cardiff City,Leicester City,0,1,Lee Probert
+Nov 03 2018 - 3:00pm,Everton,Brighton & Hove Albion,3,1,David Coote
+Nov 03 2018 - 3:00pm,Newcastle United,Watford,1,0,Craig Pawson
+Nov 03 2018 - 3:00pm,West Ham United,Burnley,4,2,Roger East
+Nov 03 2018 - 5:30pm,Arsenal,Liverpool,1,1,Andre Marriner
+Nov 03 2018 - 7:45pm,Wolverhampton Wanderers,Tottenham Hotspur,2,3,Mike Dean
+Nov 04 2018 - 3:00pm,Manchester City,Southampton,6,1,Lee Mason
+Nov 04 2018 - 4:00pm,Chelsea,Crystal Palace,3,1,Michael Oliver
+Nov 05 2018 - 8:00pm,Huddersfield Town,Fulham,1,0,Anthony Taylor
+Nov 10 2018 - 12:30pm,Cardiff City,Brighton & Hove Albion,2,1,Martin Atkinson
+Nov 10 2018 - 3:00pm,Huddersfield Town,West Ham United,1,1,Chris Kavanagh
+Nov 10 2018 - 3:00pm,Leicester City,Burnley,0,0,Mike Dean
+Nov 10 2018 - 3:00pm,Newcastle United,AFC Bournemouth,2,1,Lee Probert
+Nov 10 2018 - 3:00pm,Southampton,Watford,1,1,Simon Hooper
+Nov 10 2018 - 5:30pm,Crystal Palace,Tottenham Hotspur,0,1,Jonathan Moss
+Nov 11 2018 - 12:00pm,Liverpool,Fulham,2,0,Paul Tierney
+Nov 11 2018 - 2:15pm,Chelsea,Everton,0,0,Kevin Friend
+Nov 11 2018 - 4:30pm,Arsenal,Wolverhampton Wanderers,1,1,Stuart Attwell
+Nov 11 2018 - 4:30pm,Manchester City,Manchester United,3,1,Anthony Taylor
+Nov 24 2018 - 3:00pm,Brighton & Hove Albion,Leicester City,1,1,Chris Kavanagh
+Nov 24 2018 - 3:00pm,Everton,Cardiff City,1,0,Paul Tierney
+Nov 24 2018 - 3:00pm,Fulham,Southampton,3,2,Michael Oliver
+Nov 24 2018 - 3:00pm,Manchester United,Crystal Palace,0,0,Lee Mason
+Nov 24 2018 - 3:00pm,Watford,Liverpool,0,3,Jonathan Moss
+Nov 24 2018 - 3:00pm,West Ham United,Manchester City,0,4,Andre Marriner
+Nov 24 2018 - 5:30pm,Tottenham Hotspur,Chelsea,3,1,Martin Atkinson
+Nov 25 2018 - 1:30pm,AFC Bournemouth,Arsenal,1,2,Craig Pawson
+Nov 25 2018 - 4:00pm,Wolverhampton Wanderers,Huddersfield Town,0,2,Kevin Friend
+Nov 26 2018 - 8:30pm,Burnley,Newcastle United,1,2,Anthony Taylor
+Nov 30 2018 - 8:00pm,Cardiff City,Wolverhampton Wanderers,2,1,Andre Marriner
+Dec 01 2018 - 3:00pm,Crystal Palace,Burnley,2,0,Lee Probert
+Dec 01 2018 - 3:00pm,Huddersfield Town,Brighton & Hove Albion,1,2,Michael Oliver
+Dec 01 2018 - 3:00pm,Leicester City,Watford,2,0,Graham Scott
+Dec 01 2018 - 3:00pm,Manchester City,AFC Bournemouth,3,1,Stuart Attwell
+Dec 01 2018 - 3:00pm,Newcastle United,West Ham United,0,3,Paul Tierney
+Dec 01 2018 - 5:30pm,Southampton,Manchester United,2,2,Kevin Friend
+Dec 02 2018 - 12:00pm,Chelsea,Fulham,2,0,Craig Pawson
+Dec 02 2018 - 2:05pm,Arsenal,Tottenham Hotspur,4,2,Mike Dean
+Dec 02 2018 - 4:15pm,Liverpool,Everton,1,0,Chris Kavanagh
+Dec 04 2018 - 7:45pm,AFC Bournemouth,Huddersfield Town,2,1,Roger East
+Dec 04 2018 - 7:45pm,Brighton & Hove Albion,Crystal Palace,3,1,Kevin Friend
+Dec 04 2018 - 7:45pm,West Ham United,Cardiff City,3,1,Graham Scott
+Dec 04 2018 - 8:00pm,Watford,Manchester City,1,2,Paul Tierney
+Dec 05 2018 - 7:45pm,Burnley,Liverpool,1,3,Stuart Attwell
+Dec 05 2018 - 7:45pm,Fulham,Leicester City,1,1,David Coote
+Dec 05 2018 - 7:45pm,Wolverhampton Wanderers,Chelsea,2,1,Jonathan Moss
+Dec 05 2018 - 7:45pm,Everton,Newcastle United,1,1,Lee Mason
+Dec 05 2018 - 8:00pm,Manchester United,Arsenal,2,2,Andre Marriner
+Dec 05 2018 - 8:00pm,Tottenham Hotspur,Southampton,3,1,Anthony Taylor
+Dec 08 2018 - 12:30pm,AFC Bournemouth,Liverpool,0,4,Lee Mason
+Dec 08 2018 - 3:00pm,Arsenal,Huddersfield Town,1,0,Paul Tierney
+Dec 08 2018 - 3:00pm,Burnley,Brighton & Hove Albion,1,0,Martin Atkinson
+Dec 08 2018 - 3:00pm,Cardiff City,Southampton,1,0,Jonathan Moss
+Dec 08 2018 - 3:00pm,Manchester United,Fulham,4,1,Lee Probert
+Dec 08 2018 - 3:00pm,West Ham United,Crystal Palace,3,2,Anthony Taylor
+Dec 08 2018 - 5:30pm,Chelsea,Manchester City,2,0,Michael Oliver
+Dec 08 2018 - 7:45pm,Leicester City,Tottenham Hotspur,0,2,Craig Pawson
+Dec 09 2018 - 4:00pm,Newcastle United,Wolverhampton Wanderers,1,2,Mike Dean
+Dec 10 2018 - 8:00pm,Everton,Watford,2,2,Kevin Friend
+Dec 15 2018 - 12:30pm,Manchester City,Everton,3,1,Craig Pawson
+Dec 15 2018 - 3:00pm,Crystal Palace,Leicester City,1,0,Michael Oliver
+Dec 15 2018 - 3:00pm,Huddersfield Town,Newcastle United,0,1,Anthony Taylor
+Dec 15 2018 - 3:00pm,Tottenham Hotspur,Burnley,1,0,Graham Scott
+Dec 15 2018 - 3:00pm,Watford,Cardiff City,3,2,Andy Madley
+Dec 15 2018 - 3:00pm,Wolverhampton Wanderers,AFC Bournemouth,2,0,Simon Hooper
+Dec 15 2018 - 5:30pm,Fulham,West Ham United,0,2,Mike Dean
+Dec 16 2018 - 1:30pm,Brighton & Hove Albion,Chelsea,1,2,Stuart Attwell
+Dec 16 2018 - 1:30pm,Southampton,Arsenal,3,2,Chris Kavanagh
+Dec 16 2018 - 4:00pm,Liverpool,Manchester United,3,1,Martin Atkinson
+Dec 21 2018 - 8:00pm,Wolverhampton Wanderers,Liverpool,0,2,Craig Pawson
+Dec 22 2018 - 12:30pm,Arsenal,Burnley,3,1,Kevin Friend
+Dec 22 2018 - 3:00pm,AFC Bournemouth,Brighton & Hove Albion,2,0,Mike Dean
+Dec 22 2018 - 3:00pm,Chelsea,Leicester City,0,1,Lee Probert
+Dec 22 2018 - 3:00pm,Huddersfield Town,Southampton,1,3,Stuart Attwell
+Dec 22 2018 - 3:00pm,Manchester City,Crystal Palace,2,3,Andre Marriner
+Dec 22 2018 - 3:00pm,Newcastle United,Fulham,0,0,Martin Atkinson
+Dec 22 2018 - 3:00pm,West Ham United,Watford,0,2,Lee Mason
+Dec 22 2018 - 5:30pm,Cardiff City,Manchester United,1,5,Michael Oliver
+Dec 23 2018 - 4:00pm,Everton,Tottenham Hotspur,2,6,Paul Tierney
+Dec 26 2018 - 12:30pm,Fulham,Wolverhampton Wanderers,1,1,Andre Marriner
+Dec 26 2018 - 3:00pm,Burnley,Everton,1,5,Michael Oliver
+Dec 26 2018 - 3:00pm,Crystal Palace,Cardiff City,0,0,Lee Probert
+Dec 26 2018 - 3:00pm,Leicester City,Manchester City,2,1,Mike Dean
+Dec 26 2018 - 3:00pm,Liverpool,Newcastle United,4,0,Graham Scott
+Dec 26 2018 - 3:00pm,Manchester United,Huddersfield Town,3,1,Jonathan Moss
+Dec 26 2018 - 3:00pm,Tottenham Hotspur,AFC Bournemouth,5,0,Chris Kavanagh
+Dec 26 2018 - 5:15pm,Brighton & Hove Albion,Arsenal,1,1,Anthony Taylor
+Dec 26 2018 - 7:30pm,Watford,Chelsea,1,2,Martin Atkinson
+Dec 27 2018 - 7:45pm,Southampton,West Ham United,1,2,Craig Pawson
+Dec 29 2018 - 3:00pm,Brighton & Hove Albion,Everton,1,0,Andy Madley
+Dec 29 2018 - 3:00pm,Fulham,Huddersfield Town,1,0,Kevin Friend
+Dec 29 2018 - 3:00pm,Leicester City,Cardiff City,0,1,Simon Hooper
+Dec 29 2018 - 3:00pm,Tottenham Hotspur,Wolverhampton Wanderers,1,3,Stuart Attwell
+Dec 29 2018 - 3:00pm,Watford,Newcastle United,1,1,Roger East
+Dec 29 2018 - 5:30pm,Liverpool,Arsenal,5,1,Michael Oliver
+Dec 30 2018 - 12:00pm,Crystal Palace,Chelsea,0,1,Craig Pawson
+Dec 30 2018 - 2:15pm,Burnley,West Ham United,2,0,David Coote
+Dec 30 2018 - 2:15pm,Southampton,Manchester City,1,3,Paul Tierney
+Dec 30 2018 - 4:30pm,Manchester United,AFC Bournemouth,4,1,Lee Mason
+Jan 01 2019 - 12:30pm,Everton,Leicester City,0,1,Martin Atkinson
+Jan 01 2019 - 3:00pm,Arsenal,Fulham,4,1,Graham Scott
+Jan 01 2019 - 5:30pm,Cardiff City,Tottenham Hotspur,0,3,Kevin Friend
+Jan 02 2019 - 7:45pm,Chelsea,Southampton,0,0,Jonathan Moss
+Jan 02 2019 - 7:45pm,Huddersfield Town,Burnley,1,2,Mike Dean
+Jan 02 2019 - 7:45pm,West Ham United,Brighton & Hove Albion,2,2,Chris Kavanagh
+Jan 02 2019 - 7:45pm,Wolverhampton Wanderers,Crystal Palace,0,2,Roger East
+Jan 02 2019 - 8:00pm,AFC Bournemouth,Watford,3,3,David Coote
+Jan 02 2019 - 8:00pm,Newcastle United,Manchester United,0,2,Andre Marriner
+Jan 03 2019 - 8:00pm,Manchester City,Liverpool,2,1,Anthony Taylor
+Jan 12 2019 - 12:30pm,West Ham United,Arsenal,1,0,Jonathan Moss
+Jan 12 2019 - 3:00pm,Brighton & Hove Albion,Liverpool,0,1,Kevin Friend
+Jan 12 2019 - 3:00pm,Burnley,Fulham,2,1,Martin Atkinson
+Jan 12 2019 - 3:00pm,Cardiff City,Huddersfield Town,0,0,Lee Mason
+Jan 12 2019 - 3:00pm,Crystal Palace,Watford,1,2,Paul Tierney
+Jan 12 2019 - 3:00pm,Leicester City,Southampton,1,2,Michael Oliver
+Jan 12 2019 - 5:30pm,Chelsea,Newcastle United,2,1,Chris Kavanagh
+Jan 13 2019 - 2:15pm,Everton,AFC Bournemouth,2,0,Anthony Taylor
+Jan 13 2019 - 4:30pm,Tottenham Hotspur,Manchester United,0,1,Mike Dean
+Jan 14 2019 - 8:00pm,Manchester City,Wolverhampton Wanderers,3,0,Craig Pawson
+Jan 19 2019 - 12:30pm,Wolverhampton Wanderers,Leicester City,4,3,Chris Kavanagh
+Jan 19 2019 - 3:00pm,AFC Bournemouth,West Ham United,2,0,Simon Hooper
+Jan 19 2019 - 3:00pm,Liverpool,Crystal Palace,4,3,Jonathan Moss
+Jan 19 2019 - 3:00pm,Manchester United,Brighton & Hove Albion,2,1,Paul Tierney
+Jan 19 2019 - 3:00pm,Newcastle United,Cardiff City,3,0,Stuart Attwell
+Jan 19 2019 - 3:00pm,Southampton,Everton,2,1,Graham Scott
+Jan 19 2019 - 3:00pm,Watford,Burnley,0,0,Michael Oliver
+Jan 19 2019 - 5:30pm,Arsenal,Chelsea,2,0,Anthony Taylor
+Jan 20 2019 - 1:30pm,Huddersfield Town,Manchester City,0,3,Andre Marriner
+Jan 20 2019 - 4:00pm,Fulham,Tottenham Hotspur,1,2,Craig Pawson
+Jan 29 2019 - 7:45pm,Arsenal,Cardiff City,2,1,Mike Dean
+Jan 29 2019 - 7:45pm,Fulham,Brighton & Hove Albion,4,2,Lee Probert
+Jan 29 2019 - 7:45pm,Huddersfield Town,Everton,0,1,Stuart Attwell
+Jan 29 2019 - 7:45pm,Wolverhampton Wanderers,West Ham United,3,0,David Coote
+Jan 29 2019 - 8:00pm,Manchester United,Burnley,2,2,Jonathan Moss
+Jan 29 2019 - 8:00pm,Newcastle United,Manchester City,2,1,Paul Tierney
+Jan 30 2019 - 7:45pm,AFC Bournemouth,Chelsea,4,0,Roger East
+Jan 30 2019 - 7:45pm,Southampton,Crystal Palace,1,1,Andre Marriner
+Jan 30 2019 - 8:00pm,Liverpool,Leicester City,1,1,Martin Atkinson
+Jan 30 2019 - 8:00pm,Tottenham Hotspur,Watford,2,1,Graham Scott
+Feb 02 2019 - 12:30pm,Tottenham Hotspur,Newcastle United,1,0,Andre Marriner
+Feb 02 2019 - 3:00pm,Brighton & Hove Albion,Watford,0,0,Simon Hooper
+Feb 02 2019 - 3:00pm,Burnley,Southampton,1,1,Anthony Taylor
+Feb 02 2019 - 3:00pm,Chelsea,Huddersfield Town,5,0,Paul Tierney
+Feb 02 2019 - 3:00pm,Crystal Palace,Fulham,2,0,Michael Oliver
+Feb 02 2019 - 3:00pm,Everton,Wolverhampton Wanderers,1,3,Lee Mason
+Feb 02 2019 - 5:30pm,Cardiff City,AFC Bournemouth,2,0,Jonathan Moss
+Feb 03 2019 - 2:05pm,Leicester City,Manchester United,0,1,Mike Dean
+Feb 03 2019 - 4:30pm,Manchester City,Arsenal,3,1,Martin Atkinson
+Feb 04 2019 - 8:00pm,West Ham United,Liverpool,1,1,Kevin Friend
+Feb 06 2019 - 7:45pm,Everton,Manchester City,0,2,Craig Pawson
+Feb 09 2019 - 12:30pm,Fulham,Manchester United,0,3,Paul Tierney
+Feb 09 2019 - 3:00pm,Crystal Palace,West Ham United,1,1,Craig Pawson
+Feb 09 2019 - 3:00pm,Huddersfield Town,Arsenal,1,2,Jonathan Moss
+Feb 09 2019 - 3:00pm,Liverpool,AFC Bournemouth,3,0,Anthony Taylor
+Feb 09 2019 - 3:00pm,Southampton,Cardiff City,1,2,Martin Atkinson
+Feb 09 2019 - 3:00pm,Watford,Everton,1,0,Lee Probert
+Feb 09 2019 - 5:30pm,Brighton & Hove Albion,Burnley,1,3,Stuart Attwell
+Feb 10 2019 - 1:30pm,Tottenham Hotspur,Leicester City,3,1,Michael Oliver
+Feb 10 2019 - 4:00pm,Manchester City,Chelsea,6,0,Mike Dean
+Feb 11 2019 - 8:00pm,Wolverhampton Wanderers,Newcastle United,1,1,Graham Scott
+Feb 22 2019 - 7:45pm,Cardiff City,Watford,1,5,Simon Hooper
+Feb 22 2019 - 7:45pm,West Ham United,Fulham,3,1,Lee Mason
+Feb 23 2019 - 12:30pm,Burnley,Tottenham Hotspur,2,1,Mike Dean
+Feb 23 2019 - 3:00pm,AFC Bournemouth,Wolverhampton Wanderers,1,1,Roger East
+Feb 23 2019 - 3:00pm,Newcastle United,Huddersfield Town,2,0,Kevin Friend
+Feb 23 2019 - 5:30pm,Leicester City,Crystal Palace,1,4,Anthony Taylor
+Feb 24 2019 - 2:05pm,Arsenal,Southampton,2,0,Graham Scott
+Feb 24 2019 - 2:05pm,Manchester United,Liverpool,0,0,Michael Oliver
+Feb 26 2019 - 7:45pm,Cardiff City,Everton,0,3,Kevin Friend
+Feb 26 2019 - 7:45pm,Huddersfield Town,Wolverhampton Wanderers,1,0,David Coote
+Feb 26 2019 - 7:45pm,Leicester City,Brighton & Hove Albion,2,1,Lee Probert
+Feb 26 2019 - 8:00pm,Newcastle United,Burnley,2,0,Craig Pawson
+Feb 27 2019 - 7:45pm,Arsenal,AFC Bournemouth,5,1,Chris Kavanagh
+Feb 27 2019 - 7:45pm,Southampton,Fulham,2,0,Anthony Taylor
+Feb 27 2019 - 8:00pm,Crystal Palace,Manchester United,1,3,Martin Atkinson
+Feb 27 2019 - 8:00pm,Chelsea,Tottenham Hotspur,2,0,Andre Marriner
+Feb 27 2019 - 8:00pm,Liverpool,Watford,5,0,Graham Scott
+Feb 27 2019 - 8:00pm,Manchester City,West Ham United,1,0,Stuart Attwell
+Mar 02 2019 - 12:30pm,Tottenham Hotspur,Arsenal,1,1,Anthony Taylor
+Mar 02 2019 - 3:00pm,AFC Bournemouth,Manchester City,0,1,Kevin Friend
+Mar 02 2019 - 3:00pm,Brighton & Hove Albion,Huddersfield Town,1,0,Mike Dean
+Mar 02 2019 - 3:00pm,Burnley,Crystal Palace,1,3,Lee Probert
+Mar 02 2019 - 3:00pm,Manchester United,Southampton,3,2,Stuart Attwell
+Mar 02 2019 - 3:00pm,Wolverhampton Wanderers,Cardiff City,2,0,Andre Marriner
+Mar 02 2019 - 5:30pm,West Ham United,Newcastle United,2,0,Chris Kavanagh
+Mar 03 2019 - 12:00pm,Watford,Leicester City,2,1,Jonathan Moss
+Mar 03 2019 - 2:05pm,Fulham,Chelsea,1,2,Graham Scott
+Mar 03 2019 - 4:15pm,Everton,Liverpool,0,0,Martin Atkinson
+Mar 09 2019 - 12:30pm,Crystal Palace,Brighton & Hove Albion,1,2,Craig Pawson
+Mar 09 2019 - 3:00pm,Cardiff City,West Ham United,2,0,Graham Scott
+Mar 09 2019 - 3:00pm,Huddersfield Town,AFC Bournemouth,0,2,Anthony Taylor
+Mar 09 2019 - 3:00pm,Leicester City,Fulham,3,1,David Coote
+Mar 09 2019 - 3:00pm,Newcastle United,Everton,3,2,Lee Mason
+Mar 09 2019 - 3:00pm,Southampton,Tottenham Hotspur,2,1,Kevin Friend
+Mar 09 2019 - 5:30pm,Manchester City,Watford,3,1,Paul Tierney
+Mar 10 2019 - 12:00pm,Liverpool,Burnley,4,2,Andre Marriner
+Mar 10 2019 - 2:05pm,Chelsea,Wolverhampton Wanderers,1,1,Michael Oliver
+Mar 10 2019 - 4:30pm,Arsenal,Manchester United,2,0,Jonathan Moss
+Mar 16 2019 - 3:00pm,AFC Bournemouth,Newcastle United,2,2,Mike Dean
+Mar 16 2019 - 3:00pm,Burnley,Leicester City,1,2,Michael Oliver
+Mar 16 2019 - 3:00pm,West Ham United,Huddersfield Town,4,3,Jonathan Moss
+Mar 17 2019 - 2:15pm,Fulham,Liverpool,1,2,Craig Pawson
+Mar 17 2019 - 4:30pm,Everton,Chelsea,2,0,Anthony Taylor
+Mar 30 2019 - 12:30pm,Fulham,Manchester City,0,2,Kevin Friend
+Mar 30 2019 - 3:00pm,Brighton & Hove Albion,Southampton,0,1,Michael Oliver
+Mar 30 2019 - 3:00pm,Burnley,Wolverhampton Wanderers,2,0,Chris Kavanagh
+Mar 30 2019 - 3:00pm,Crystal Palace,Huddersfield Town,2,0,Lee Probert
+Mar 30 2019 - 3:00pm,Leicester City,AFC Bournemouth,2,0,Lee Mason
+Mar 30 2019 - 3:00pm,Manchester United,Watford,2,1,Stuart Attwell
+Mar 30 2019 - 5:30pm,West Ham United,Everton,0,2,Paul Tierney
+Mar 31 2019 - 1:05pm,Cardiff City,Chelsea,1,2,Craig Pawson
+Mar 31 2019 - 3:30pm,Liverpool,Tottenham Hotspur,2,1,Martin Atkinson
+Apr 01 2019 - 7:00pm,Arsenal,Newcastle United,2,0,Anthony Taylor
+Apr 02 2019 - 6:45pm,Watford,Fulham,4,1,Roger East
+Apr 02 2019 - 6:45pm,Wolverhampton Wanderers,Manchester United,2,1,Mike Dean
+Apr 03 2019 - 6:45pm,Chelsea,Brighton & Hove Albion,3,0,Graham Scott
+Apr 03 2019 - 6:45pm,Tottenham Hotspur,Crystal Palace,2,0,Andre Marriner
+Apr 03 2019 - 6:45pm,Manchester City,Cardiff City,2,0,Jonathan Moss
+Apr 05 2019 - 7:00pm,Southampton,Liverpool,1,3,Paul Tierney
+Apr 06 2019 - 2:00pm,AFC Bournemouth,Burnley,1,3,Martin Atkinson
+Apr 06 2019 - 2:00pm,Huddersfield Town,Leicester City,1,4,David Coote
+Apr 06 2019 - 2:00pm,Newcastle United,Crystal Palace,0,1,Stuart Attwell
+Apr 07 2019 - 1:05pm,Everton,Arsenal,1,0,Kevin Friend
+Apr 08 2019 - 7:00pm,Chelsea,West Ham United,2,0,Chris Kavanagh
+Apr 12 2019 - 7:00pm,Leicester City,Newcastle United,0,1,Chris Kavanagh
+Apr 13 2019 - 11:30am,Tottenham Hotspur,Huddersfield Town,4,0,Lee Mason
+Apr 13 2019 - 2:00pm,Brighton & Hove Albion,AFC Bournemouth,0,5,Kevin Friend
+Apr 13 2019 - 2:00pm,Burnley,Cardiff City,2,0,Mike Dean
+Apr 13 2019 - 2:00pm,Fulham,Everton,2,0,Lee Probert
+Apr 13 2019 - 2:00pm,Southampton,Wolverhampton Wanderers,3,1,Jonathan Moss
+Apr 13 2019 - 4:30pm,Manchester United,West Ham United,2,1,Graham Scott
+Apr 14 2019 - 1:05pm,Crystal Palace,Manchester City,1,3,Martin Atkinson
+Apr 14 2019 - 3:30pm,Liverpool,Chelsea,2,0,Michael Oliver
+Apr 15 2019 - 7:00pm,Watford,Arsenal,0,1,Craig Pawson
+Apr 16 2019 - 6:45pm,Brighton & Hove Albion,Cardiff City,0,2,Andre Marriner
+Apr 20 2019 - 11:30am,Manchester City,Tottenham Hotspur,1,0,Michael Oliver
+Apr 20 2019 - 2:00pm,AFC Bournemouth,Fulham,0,1,David Coote
+Apr 20 2019 - 2:00pm,Huddersfield Town,Watford,1,2,Roger East
+Apr 20 2019 - 2:00pm,West Ham United,Leicester City,2,2,Lee Probert
+Apr 20 2019 - 2:00pm,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,Craig Pawson
+Apr 20 2019 - 4:30pm,Newcastle United,Southampton,3,1,Anthony Taylor
+Apr 21 2019 - 12:30pm,Everton,Manchester United,4,0,Paul Tierney
+Apr 21 2019 - 3:00pm,Arsenal,Crystal Palace,2,3,Jonathan Moss
+Apr 21 2019 - 3:00pm,Cardiff City,Liverpool,0,2,Martin Atkinson
+Apr 22 2019 - 7:00pm,Chelsea,Burnley,2,2,Kevin Friend
+Apr 23 2019 - 6:45pm,Watford,Southampton,1,1,Mike Dean
+Apr 23 2019 - 6:45pm,Tottenham Hotspur,Brighton & Hove Albion,1,0,Chris Kavanagh
+Apr 24 2019 - 6:45pm,Wolverhampton Wanderers,Arsenal,3,1,Stuart Attwell
+Apr 24 2019 - 7:00pm,Manchester United,Manchester City,0,2,Andre Marriner
+Apr 26 2019 - 7:00pm,Liverpool,Huddersfield Town,5,0,Kevin Friend
+Apr 27 2019 - 11:30am,Tottenham Hotspur,West Ham United,0,1,Anthony Taylor
+Apr 27 2019 - 2:00pm,Crystal Palace,Everton,0,0,Lee Mason
+Apr 27 2019 - 2:00pm,Fulham,Cardiff City,1,0,Chris Kavanagh
+Apr 27 2019 - 2:00pm,Southampton,AFC Bournemouth,3,3,Graham Scott
+Apr 27 2019 - 2:00pm,Watford,Wolverhampton Wanderers,1,2,Simon Hooper
+Apr 27 2019 - 4:30pm,Brighton & Hove Albion,Newcastle United,1,1,Mike Dean
+Apr 28 2019 - 11:00am,Leicester City,Arsenal,3,0,Michael Oliver
+Apr 28 2019 - 1:05pm,Burnley,Manchester City,0,1,Paul Tierney
+Apr 28 2019 - 3:30pm,Manchester United,Chelsea,1,1,Martin Atkinson
+May 03 2019 - 7:00pm,Everton,Burnley,2,0,Chris Kavanagh
+May 04 2019 - 11:30am,AFC Bournemouth,Tottenham Hotspur,1,0,Craig Pawson
+May 04 2019 - 2:00pm,West Ham United,Southampton,3,0,Stuart Attwell
+May 04 2019 - 2:00pm,Wolverhampton Wanderers,Fulham,1,0,Jonathan Moss
+May 04 2019 - 4:30pm,Cardiff City,Crystal Palace,2,3,Michael Oliver
+May 04 2019 - 6:45pm,Newcastle United,Liverpool,2,3,Andre Marriner
+May 05 2019 - 1:00pm,Chelsea,Watford,3,0,Paul Tierney
+May 05 2019 - 1:00pm,Huddersfield Town,Manchester United,1,1,Lee Mason
+May 05 2019 - 3:30pm,Arsenal,Brighton & Hove Albion,1,1,Anthony Taylor
+May 06 2019 - 7:00pm,Manchester City,Leicester City,1,0,Mike Dean
+May 12 2019 - 2:00pm,Brighton & Hove Albion,Manchester City,1,4,Michael Oliver
+May 12 2019 - 2:00pm,Burnley,Arsenal,1,3,Mike Dean
+May 12 2019 - 2:00pm,Crystal Palace,AFC Bournemouth,5,3,Roger East
+May 12 2019 - 2:00pm,Fulham,Newcastle United,0,4,Kevin Friend
+May 12 2019 - 2:00pm,Leicester City,Chelsea,0,0,Anthony Taylor
+May 12 2019 - 2:00pm,Liverpool,Wolverhampton Wanderers,2,0,Martin Atkinson
+May 12 2019 - 2:00pm,Manchester United,Cardiff City,0,2,Jonathan Moss
+May 12 2019 - 2:00pm,Southampton,Huddersfield Town,1,1,Lee Probert
+May 12 2019 - 2:00pm,Tottenham Hotspur,Everton,2,2,Andre Marriner
+May 12 2019 - 2:00pm,Watford,West Ham United,1,4,Chris Kavanagh
